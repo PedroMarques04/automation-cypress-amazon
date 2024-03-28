@@ -57,6 +57,6 @@ For study purposes, I used the Amazon website as a testing source, dividing it i
 1. Despite all tests passing, some issues were found regarding the validation of prices for certain products. Below is the link to a validated product:
 ![Notebook](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 The price of the found product was:
-![Notebook price](URL_da_Imagem)
+![Notebook price](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o.png)
 The price of the product after changing the quantity to 3 is inconsistent. No reason for the price change was displayed on the screen.
-![Cart after changing the quantity of the product](URL_da_Imagem)
+![Cart after changing the quantity of the product](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o-quantidade.png)
