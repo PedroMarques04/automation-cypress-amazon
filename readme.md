@@ -24,7 +24,7 @@ Para fins de estudo, utilizei o website da Amazon como fonte de testes, separand
 ###### Pontos a ressaltar:
 1. Apesar de todos os testes estarem passando, foram encontrados alguns problemas quanto à validação de preço de alguns produtos. A seguir segue o link de um produto validado:
 
-![Caderno](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+[Caderno](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 O preço do produto encontrado foi esse:
 ![Preço do Caderno](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o.png)
 O preço do produto após alterar a quantidade para 3 está em desacordo. Não foi informada em tela nenhuma razão para alteração do valor
@@ -55,7 +55,7 @@ For study purposes, I used the Amazon website as a testing source, dividing it i
 
 ###### Points to Highlight:
 1. Despite all tests passing, some issues were found regarding the validation of prices for certain products. Below is the link to a validated product:
-![Notebook](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
+[Notebook](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 The price of the found product was:
 ![Notebook price](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o.png)
 The price of the product after changing the quantity to 3 is inconsistent. No reason for the price change was displayed on the screen.
