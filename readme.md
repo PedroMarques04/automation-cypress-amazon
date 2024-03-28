@@ -26,9 +26,9 @@ Para fins de estudo, utilizei o website da Amazon como fonte de testes, separand
 
 ![Caderno](https://www.amazon.com.br/Caderno-Universit%C3%A1rio-Tilibra-305421-Mat%C3%A9rias/dp/B07VFWFS4P/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-1)
 O preço do produto encontrado foi esse:
-![Preço do Caderno](URL_da_Imagem)
+![Preço do Caderno](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o.png)
 O preço do produto após alterar a quantidade para 3 está em desacordo. Não foi informada em tela nenhuma razão para alteração do valor
-![Carrinho após a mudança de quantidade do produto](URL_da_Imagem)
+![Carrinho após a mudança de quantidade do produto](https://github.com/PedroMarques04/automation-cypress-amazon/blob/master/reports/caderno-pre%C3%A7o-quantidade.png)
 
 # Repository dedicated to automation studies with Cypress 🇺🇸🔵🔴
 
